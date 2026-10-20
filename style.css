@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0F172A;
+    color: #E2E8F0;
+}
+
+header,
+footer {
+    background-color: #1E293B;
+    padding: 15px 30px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.nom-petit {
+    margin: 0 0 8px 0;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+nav a {
+    margin-right: 15px;
+}
+
+main {
+    padding: 0 30px;
+}
+
+a {
+    color: #38BDF8;
+}
+
+h1,
+h2,
+h3 {
+    color: #38BDF8;
+}
+
+/* Section d'accueil centrée */
+#accueil {
+    text-align: center;
+    padding: 30px 0;
+}
+
+#accueil img {
+    border: 3px solid #38BDF8;
+    border-radius: 50%;
+}
+
+#accueil h1 {
+    font-size: 48px;
+    margin: 15px 0;
+}
+
+/* Cartes projets */
+.carte {
+    background-color: #1E293B;
+    border: 2px solid #38BDF8;
+    padding: 20px;
+    margin-bottom: 25px;
+}
+
+.carte h3 {
+    margin-top: 0;
+    font-size: 18px;
+}
